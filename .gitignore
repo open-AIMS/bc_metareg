@@ -1,0 +1,14 @@
+_targets/
+output/
+ignore/
+*.pdf
+*.zip
+
+.DS_Store
+Rplot.pdf
+.Rproj.user
+*.Rapp.history
+*.Rhistory
+*.RData
+*.Rproj.user
+*.Ruserdata
