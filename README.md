@@ -1,4 +1,4 @@
-AIMS <img src="report/resources/logo.png" width = 180 alt="AIMS Logo" align="right" />
+AIMS <img src="logo.png" width = 180 alt="AIMS Logo" align="right" />
 =========================================================================================
 
 <!-- badges: start -->
