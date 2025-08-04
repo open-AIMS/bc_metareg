@@ -1,4 +1,4 @@
-AIMS <img src="logo.png" width = 180 alt="AIMS Logo" align="right" />
+Tracing blue carbon flows across diverse seascapes <img src="logo.png" width = 180 alt="AIMS Logo" align="right" />
 =========================================================================================
 
 <!-- badges: start -->
@@ -24,7 +24,7 @@ click on `Download ZIP`.
 
 The data needs to be downloaded independently from another source (to added once archival completed), and stored in a folder called `data` inside the project root directory.
 
-All analyses were done in [`R`](https://cran.r-project.org/) and uses [`Quarto`](https://quarto.org/) for rendering documents. Please use these links to have both software properly installed.
+All analyses were done in [`R`](https://cran.r-project.org/). Please use this link to have both software properly installed.
 
 We use the [targets](https://github.com/ropensci/targets) R package to wrangle
 the data, run the Bayesian models, and create all figures. First install
